@@ -1,0 +1,13 @@
+.box {
+    min-height: 80px;
+    background-color: cornflowerblue;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    padding: 13px;
+    color: black;
+    text-align: center;   
+}
+
+h2 {
+    text-align: center;
+}
